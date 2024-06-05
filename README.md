@@ -10,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danilo-m-049386234)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devmarqs/?next=%2F)
 
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=bankmarqs&show_icons=true&theme=dracula)
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=DanMarqss&show_icons=true&theme=dracula)
 
 ### Tecnologias que ultilizo
 <div style="display: inline_block"><br/>
