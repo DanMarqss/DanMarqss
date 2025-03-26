@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Danilo+Marques;I'm+19+years+old;From+Manaus,+AM;Analyst+and+Systems+Developer;Working+in+Amazonas+Industry;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Danilo+Marques;I'm+19+years+old;From+Manaus,+AM;Analyst+and+Systems+Developer;Working+in+Axes+Tecnology;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 - 👨‍💻 Desenvolvedor Full Stack
